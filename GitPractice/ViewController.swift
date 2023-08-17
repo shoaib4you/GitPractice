@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
     
     func checkLogin() {
-        print("Check Login Somi")
+        print("Check Login Rehan")
     }
 
 }
