@@ -17,6 +17,11 @@ class ViewController: UIViewController {
     
     func login() {
         print("This is login")
+        self.checkLogin()
+    }
+    
+    func checkLogin() {
+        print("Check Login")
     }
 
 }
